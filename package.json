@@ -2,6 +2,7 @@
   "name": "streamshift",
   "module": "src/index.ts",
   "type": "module",
+  "license": "MIT",
   "devDependencies": {
     "@types/blessed": "^0.1.25",
     "@types/bun": "latest",
